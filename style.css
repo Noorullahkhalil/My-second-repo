@@ -1,0 +1,18 @@
+h1,h2{
+    color:rgb(235, 234, 243);
+    border: 3px solid rgb(103, 119, 96);
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #202123;
+    color:#b3ac96;
+}
+h1 {
+    font: size 6rem;
+}
+.profilephoto{
+    width: 200px;
+    border: 3px solid white;
+    height: 250px;
+    border-radius: 20%;
+}
